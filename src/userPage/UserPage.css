@@ -1,0 +1,73 @@
+header{
+    width: 100%;
+    display: block;
+    background-color: lightblue;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.cards{
+    width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  
+
+}
+.lis{
+    width: 90%;
+    margin: 150px auto;
+}
+.list{
+    width: 90%;
+    margin: 40px auto;
+    border: 1px solid wheat;
+}
+.card{
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align:justify;
+    padding: 10px;
+}
+
+.bookImg{
+    width: 150px;
+    height: 200px;
+   
+}
+.nameBookDesc{
+    margin-left: 15px;
+}
+.nameBook{
+    text-align: center;
+    color: steelblue;
+}
+
+.btnBuy{
+    margin: 25px;
+    width: 95%;
+}
+table{
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+    padding: 5px;
+
+}
+
+td, th {
+    border: 2px solid darkcyan;
+}
+#text{
+    margin-right: 250px;
+    text-align: right;
+}
+
+.cont{
+    width: 70%;
+    height: 40px;
+   margin-left: 15%;
+   border: 2px dotted royalblue;
+
+}

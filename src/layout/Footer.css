@@ -1,0 +1,16 @@
+footer{
+    width: 100%;
+    margin-top: 30%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.book{
+    padding-top: 20px;
+    margin-left: 60px;
+}
+h2{
+
+    color:royalblue;
+}

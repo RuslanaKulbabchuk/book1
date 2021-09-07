@@ -1,0 +1,58 @@
+
+
+header{
+    width: 100%;
+    display: block;
+    background-color: lightblue;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.container{
+  margin-top: 150px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+span{
+    display: block;
+    text-decoration: none;
+    color: teal;
+    margin: 0 10px;
+    padding: 10px;
+    font-size: x-large;
+}
+.list{
+    width: 100%;
+    align-items: center;
+}
+
+.lists{
+    width: 100%;
+    margin-top: 20px;
+    align-items: center;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 2px solid white;
+}
+.img{
+    width: 40px;
+    height: 50px;
+}
+
+.edit{
+    width: 50px;
+    height: 20px;
+    color: dodgerblue;
+    background: #3b4465;
+}
+.del{
+    width: 50px;
+    height: 20px;
+    color: dodgerblue;
+    background: #3b4465;
+}
